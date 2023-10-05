@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "import_kp_data_btn", "import_kp_data_btn.vbproj", "{A3F9193E-DBB9-4ADF-9F55-77BE4E26C19C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "import_kp_data_btnWeb", "..\import_kp_data_btnWeb\import_kp_data_btnWeb.vbproj", "{AD1F1D26-05BE-405D-9F81-5EE962DCD879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F9193E-DBB9-4ADF-9F55-77BE4E26C19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F9193E-DBB9-4ADF-9F55-77BE4E26C19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F9193E-DBB9-4ADF-9F55-77BE4E26C19C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A3F9193E-DBB9-4ADF-9F55-77BE4E26C19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F9193E-DBB9-4ADF-9F55-77BE4E26C19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F9193E-DBB9-4ADF-9F55-77BE4E26C19C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AD1F1D26-05BE-405D-9F81-5EE962DCD879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1F1D26-05BE-405D-9F81-5EE962DCD879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1F1D26-05BE-405D-9F81-5EE962DCD879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1F1D26-05BE-405D-9F81-5EE962DCD879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91050D0D-8967-45B4-810D-212019E43286}
+	EndGlobalSection
+EndGlobal
